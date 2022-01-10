@@ -1,0 +1,7 @@
+{
+  "name": "firm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
